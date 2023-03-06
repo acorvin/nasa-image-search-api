@@ -6,6 +6,9 @@ This is a web application that allows users to search for images from NASA's API
 
 ![preview](preview-app.gif?raw=true)
 
+
+[Try the live app!](https://adorable-llama-1d57bf.netlify.app/))
+
 ## Getting Started
 
 To get started with this project, follow the instructions below.
