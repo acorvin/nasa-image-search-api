@@ -4,7 +4,7 @@ This is a web application that allows users to search for images from NASA's API
 
 ## Preview
 
-
+![preview](preview-app.gif?raw=true)
 
 ## Getting Started
 
@@ -16,3 +16,15 @@ Before running the app, you must have the following installed:
 
 - Node.js
 - npm
+
+### Author
+
+Alex Corvin
+
+### Version
+
+1.0.0
+
+### License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
