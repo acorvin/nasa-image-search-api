@@ -17,6 +17,17 @@ Before running the app, you must have the following installed:
 - Node.js
 - npm
 
+### Build Setup
+
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
 ### Author
 
 Alex Corvin
