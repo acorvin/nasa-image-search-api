@@ -10,32 +10,32 @@ This is a web application that allows users to search for images from NASA's API
 
 To get started with this project, follow the instructions below.
 
-### Prerequisites
+## Prerequisites
 
 Before running the app, you must have the following installed:
 
 - Node.js
 - npm
 
-### Build Setup
+## Build Setup
 
-# install dependencies
+### install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+### serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
+### build for production with minification
 npm run build
 
-### Author
+## Author
 
 Alex Corvin
 
-### Version
+## Version
 
 1.0.0
 
-### License
+## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
